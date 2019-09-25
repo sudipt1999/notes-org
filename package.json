@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amanjagdev/notes-org/issues"
   },
-  "homepage": "https://github.com/amanjagdev/notes-org#readme"
+  "homepage": "https://github.com/amanjagdev/notes-org#readme",
+  "dependencies": {
+    "dropbox": "^4.0.30"
+  }
 }
