@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/amanjagdev/notes-org#readme",
   "dependencies": {
-    "dropbox": "^4.0.30"
+    "dropbox": "^4.0.30",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1"
   }
 }
