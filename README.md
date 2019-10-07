@@ -1,11 +1,16 @@
-# notes-org
+# Notes-Org
 
-A simple notes Organiser app made usign dropbox API
+Quick start:
 
-## For development
 ```
 $ npm install
-$ npm start
-```
+$ npm run build
+````
 
-### Currrently in development phase
+## Development
+
+Run Webpack in watch-mode to continually compile the JavaScript as you work:
+
+```
+$ npm run watch
+```
