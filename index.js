@@ -2,7 +2,7 @@ import { Dropbox } from 'dropbox';
 import $ from 'jquery';
 
 const dbx = new Dropbox({ 
-    accessToken: 'iyy5LHAnuaAAAAAAAAAAHyxpfUGVFfHPXdTj0bi9icYy8r-8YuEswJL8kuk0HhIR' 
+    accessToken: '' 
 });
 
 dbx.filesListFolder({path: ''})
